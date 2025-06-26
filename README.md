@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @castorkb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-castorkb/castorkb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Начинающий backend-разработчик на Python с практическим
+опытом разработки веб-приложений в рамках курсов и petпроектов.
+Параллельно с текущей работой изучаю backend-разработку и
+целенаправленно перехожу в IT. Мотивирован, быстро обучаюсь и
+люблю решать практические задачи.
