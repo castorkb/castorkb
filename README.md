@@ -9,7 +9,7 @@
 
 - **Языки**: Python
 - **Фреймворки**: Django, Django REST Framework
-- **Базы данных**: SQLite, PostgreSQL
+- **Базы данных**: SQLite, SQL, PostgreSQL
 - **DevOps**: Docker, Docker Compose, Linux (Ubuntu)
 - **Инструменты**: Git, Postman
 - **Методологии**: Scrum
@@ -20,8 +20,7 @@
 ## 📫 Контакты
 
 - Email: igor.yangolenkoo@gmail.com  
-- Telegram: [@yangolenko_igor](https://t.me/yangolenko_igor)  
-- GitHub: [castorkb](https://github.com/castorkb)  
+- Telegram: [@yangolenko_igor](https://t.me/yangolenko_igor)   
 - LinkedIn: [Профиль](https://linkedin.com/in/igor-yangolenko-a11861293)
 
 ---
