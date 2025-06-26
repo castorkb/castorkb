@@ -7,7 +7,7 @@
 
 ## 🛠️ Мой стек
 
-- **Языки**: Python, SQL
+- **Языки**: Python
 - **Фреймворки**: Django, Django REST Framework
 - **Базы данных**: SQLite, PostgreSQL
 - **DevOps**: Docker, Docker Compose, Linux (Ubuntu)
